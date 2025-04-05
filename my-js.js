@@ -9,7 +9,7 @@
    let all;
 
    
-for(let i=2;i<125;i++){
+for(let i=2;i<88;i++){
     all="jpeg";
 
     if(i===14 || i===15){
