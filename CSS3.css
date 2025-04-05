@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.t1{
+    background-image: url(all/abc3.jpg);
+    padding: 70px;
+    position: fixed;
+    width: 100%;
+    color: white;
+   
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+    
+
+.g1{
+    margin-top: 250px;
+    position: fixed;
+    width: 100%;
+    background-image: url(all/images\ \(33\).jpeg );
+    background-color: white;
+    background-size: 510px;
+
+}
+.v1{
+    position: relative;
+    margin-bottom: 30px;
+}
+.v3{
+    position: absolute;
+    bottom: 20px;
+    
+}
+
+.t4{
+     margin-top: 450px; 
+     background-color: rgb(39, 34, 34);  
+     color: white;
+     padding: 10px;
+     display: flex;
+     justify-content: center;
+}
+.t2{
+    
+    width: 100px;
+    text-decoration: none;
+    color: white;
+    
+}
+.t3{
+   
+    width: 100px;
+    
+}
+.w1, .w2,.w3{
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(16, 108, 245);
+    font-weight: bold;
+    
+    
+    
+}
+.w3:hover{
+color: rgb(233, 62, 39);
+}
+.w2:hover{
+    color: rgb(224, 245, 37);
+}
+.w1:hover{
+    color: rgb(39, 233, 117);
+}
+a{
+    background-color: rgb(224, 12, 12);
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 7px 10px;
+    
+    border-radius: 7px;
+    margin-right: 10px;
+    
+
+
+}
+a:hover{
+    background-color: rgb(15, 231, 15);
+}
+
+
+span{
+width: 200px;
+height: 100px;
+margin-right: 100px;
+position: absolute;
+
+
+
+}
+.bn1{
+ background-color: rgb(16, 108, 245);
+ padding-left: 25px;
+ padding-right: 25px;
+}

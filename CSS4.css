@@ -1,0 +1,41 @@
+body{
+    margin: 0;      
+
+}
+div{
+   display: inline-block;
+    border: 3px solid gold;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+video{
+    width: 250px;
+    height: 250px;
+    
+}
+.t1{
+    width: 100%;
+    color: white;
+    position: fixed;
+    margin-left: 0;
+    padding: 30px;
+    background-image: url(all/abc7.jpg);
+    background-size: 200px;
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+.un{
+    margin-top: 170px;
+    background-color: white;
+    border: none;
+}
+p{
+    font-size: 18px;
+    color:black;
+
+}
+div{
+    background-color: white;
+}

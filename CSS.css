@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    margin: 0;
+
+
+    
+}
+.myk2{
+    margin-top: 140px;
+    background-color: white;
+}
+.myk{
+    width: 150;
+    height: 150;
+    border: 1px solid hsla(0, 0%, 0%, 0.3);
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.134);
+    display: inline-block;
+    margin: 5px;
+    
+
+}
+img{
+    height: 300px;
+    width: 250px; 
+}
+.myk3{
+    background-color: gold;
+    color: white;
+    height: 100px;
+    margin-top: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    align-items:end;
+    position: fixed;
+    background-image: url(all/abc1.jpg);
+    color: dodgerblue;
+    
+}
+.mky5{
+    padding-top: 50px;
+}
+.cv5{
+    font-weight: bold;
+    font-size: 24;
+    justify-content: end;
+    
+}
+div{
+    background-color: white;
+}
+
+
