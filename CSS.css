@@ -24,7 +24,8 @@ img{
     width: 250px; 
 }
 .myk3{
-    background-color: gold;
+    
+    
     color: white;
     height: 100px;
     margin-top: none;
@@ -34,6 +35,8 @@ img{
     align-items:end;
     position: fixed;
     background-image: url(all/abc1.jpg);
+    background-size:500px;
+    background-position:center ;
     color: dodgerblue;
     
 }
