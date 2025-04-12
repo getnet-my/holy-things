@@ -29,7 +29,8 @@ body{
     width: 100%;
     background-image: url(all/images\ \(33\).jpeg );
     background-color: white;
-    background-size: 510px;
+    background-size: 400px;
+    background-position:center;
 
 }
 .v1{
