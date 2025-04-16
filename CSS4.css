@@ -25,6 +25,7 @@ video{
     border: none;
     display: flex;
     justify-content: center;
+    z-index:100;
 }
 .un{
     margin-top: 170px;
